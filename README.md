@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring modern day programming tools and, among other things, ethical hacking.
 - 🌱 I’m currently learning Linux.
 - 💞️ I’m looking to collaborate on what I am interested in.
-- 📫 How to reach me...
+- 📫 How to reach me...I'll update the rest of this once I learn more.
 
 <!---
 Ironbuck/Ironbuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
